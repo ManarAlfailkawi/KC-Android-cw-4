@@ -1,0 +1,19 @@
+public class Main
+{
+	public static void main(String[] args) {
+		
+		System.out.System.out.println(totalgrade(96,98));
+		
+		
+	}
+	
+	public static int totalgrade (int term1 , int term2 );
+	
+	 if (totalgrade > 180 ){
+	System.out.println (Exellent);
+    }
+    
+     if  (totalgrade > 195 ){
+	System.out.println(you are super Genius);
+	
+	return (term1 + term2 );
